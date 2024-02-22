@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:065c3d1a0945f4f5ab0e7fb2b7083e0a709bbda0
+        image: nginx:a00aeb539374e4690567fa52f27015c268ca3d4c
